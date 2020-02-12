@@ -3,7 +3,7 @@ pip install -r requirements.txt
 
 2. All codes run by jupyter notebook
 ./example_images contains some example images
-./data contains training and test data(It is too big to write on DVD and upload). The data could be downoload by http://host.robots.ox.ac.uk/pascal/VOC/voc2007/.`
+The ｔraining data could be downoload by http://host.robots.ox.ac.uk/pascal/VOC/voc2007/.`
 ./thesis contains the latex and pdf thesis
 ./example_reults contains the results of some examples
 
